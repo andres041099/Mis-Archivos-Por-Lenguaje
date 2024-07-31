@@ -1,0 +1,12 @@
+*.dat
+/nbproject/private/
+/dist/
+/nbproject/private/
+/build/
+./build
+build/
+=======
+=======
+/dist/
+/nbproject/private/
+/build/
