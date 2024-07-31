@@ -1,0 +1,7 @@
+::::::Acerca de Mi::::::
+Nombre y apellido: Andres Rodriguez Liberato.
+Matricula: 100520391
+Asignatura:Introduccion a la programacion 511
+Seccion:N1
+Semestre: 1ro
+Centro:UASD Curna Nagua.
