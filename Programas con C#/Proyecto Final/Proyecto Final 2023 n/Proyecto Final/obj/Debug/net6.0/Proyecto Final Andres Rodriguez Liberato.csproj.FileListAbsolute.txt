@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\bin\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.exe
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\bin\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\bin\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\bin\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.dll
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\bin\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\obj\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\obj\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\obj\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\obj\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\obj\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.dll
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\obj\Debug\net6.0\refint\Proyecto Final Andres Rodriguez Liberato.dll
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\obj\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\obj\Debug\net6.0\Proyecto Final Andres Rodriguez Liberato.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Proyecto Final\Proyecto Final Andres Rodriguez Liberato\Proyecto Final Andres Rodriguez Liberato\obj\Debug\net6.0\ref\Proyecto Final Andres Rodriguez Liberato.dll
