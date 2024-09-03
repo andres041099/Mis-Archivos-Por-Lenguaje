@@ -1,0 +1,6 @@
+Vehiculo|Fecha de Salida|Monto a Cobrar|
+mersedes|4-5-21|50$
+Toyota|4-5-21|50$
+VMW|4-5-21|50$
+NISAN|4-5-21|50$
+Forh|4-5-21|50$
