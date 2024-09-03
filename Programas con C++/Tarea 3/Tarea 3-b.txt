@@ -1,0 +1,22 @@
+Estructura de Datos
+Tarea 3
+
+Escriba un programa que maneje un vector de pares para almacenar cuentas de ahorro (usando la Clase CuentaAhorro) con el respectivo nombre del cliente.
+
+El programa deberá leer de un archivo de datos de texto, suministrado por el profesor, los datos correspondientes con los que el vector de pares será llenado.
+
+El programa desplegará en pantalla un listado similar al siguiente:
+
+                              Banco Don Churumusco
+                      Departamento de Cuentas de Ahorros
+                     Listado de cuentas de Ahorro Activas
+                    (Ordenado Alfabéticamente por Apellido)
+
+               Cordero Betances, Dionisio   balance = 515.00
+                Fernandez Nolberto, Pedro   balance = 412.18
+                  Gonzalez Tirado, Daniel   balance = 824.56
+          Tavarez Gonzalez, Johan Ostaire   balance = 309.76
+
+
+El archivo (DatosCuenta.txt) que contiene los datos consiste en un archivo de datos de texto en el que se encuentran dos columnas, la primera conteniendo el nombre del cliente en formato nombre y apellido en el que se delimitan los espacios entre las palabras con “@“ y el apellido se separa del nombre mediante “%” y la otra columna contiene el balance de la cuenta de ahorro.
+
